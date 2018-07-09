@@ -598,7 +598,7 @@ String names start with a prefix that identifies the section they belong to. For
 | `msg_`               | A regular information message         |
 | `title_`             | A title, i.e. a dialog title          |
 | `action_`            | An action such as "Save" or "Create"  |
-
+| `success_`            | A success message  			|
 
 
 #### 2.3.2.3 Styles and Themes
